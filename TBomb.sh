@@ -35,11 +35,11 @@ banner() {
         echo -e "\e[4;34m This Bomber Was Created By \e[1;32mNitro Hacker \e[0m"
     else
         echo -e "\e[1;34mCreated By \e[1;34m"
-        toilet -f mono12 -F border Nitro
+        toilet -f mono12 -F border Flasho
     fi
     echo -e "\e[1;34m For Any Queries Join Me!!!\e[0m"
     echo -e "\e[1;32m           Telegram: https://t.me/nitro hacker \e[0m"
-    echo -e "\e[4;32m   YouTube: https://www.youtube.com/channel/UCv80Btv_4kn_9b-GVgPIwMg \e[0m"
+    echo -e "\e[4;32m   tgm: https://google.com \e[0m"
     echo " "
 
 }
